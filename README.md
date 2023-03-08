@@ -1,10 +1,16 @@
 # getcssjs-vue-node
 
-## Project setup
+## front setup
 ```
-npm install
+npm install -y
+npm install axios
 ```
-
+### back setup
+```
+npm install express --save
+npm install cheerio
+npm install cors
+```
 ### web server start - from ./client
 ```
 npm run serve

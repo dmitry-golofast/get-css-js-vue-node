@@ -1,4 +1,4 @@
-# Web service for getting css and js files connected to the site
+## Web service for getting css and js files connected to the site
 
 ## front setup
 ```
